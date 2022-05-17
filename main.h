@@ -11,7 +11,6 @@
 #include <fcntl.h>
 #include <signal.h>
 #include <limits.h>
-#include <conio.h>
 
 #define BUFSIZE 1024
 #define TOK_BUFSIZE 128
