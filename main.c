@@ -71,5 +71,8 @@ int main(int ac, char **av)
 		return (255);
 	return (datash.status);
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 98c48baadc59147a6957a650ad471f823b7fd50f
