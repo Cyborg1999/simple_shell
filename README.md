@@ -86,5 +86,5 @@ $
 ---
 
 ## Authors
-* **Andew Tonui** 
-* **Pauline Macharia** 
+* **Andew Tonui**
+* **Pauline Macharia**
